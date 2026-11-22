@@ -4,7 +4,7 @@ A Flutter mobile app that helps students learn smarter using **Supabase** (backe
 
 ## Features
 
-- **Authentication** — Email/password + Google sign-in
+- **Authentication** — Email/password 
 - **Document Upload** — Upload PDF notes, textbooks, slides
 - **AI Chat** — Ask questions about your uploaded materials
 - **Summaries** — Short, medium, and detailed revision notes
